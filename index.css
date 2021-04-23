@@ -1,20 +1,28 @@
 img{
     width: 50%;
 }
-#table1{
-    border-spacing: 0px;
-}
 td{
     padding: 2px;
+}
+
+.eb{
+    font-weight: bold;
+    text-align: center;
 }
 
 #avatar{
     text-align: center;
     width: 30%;
 }
+#table1{
+    border-spacing: 0px;
+}
 #table2{
     border-spacing: 1px;
 }
 #table3{
     border-spacing: 10px;
+}
+#table4{
+    border-spacing: 5px;
 }
